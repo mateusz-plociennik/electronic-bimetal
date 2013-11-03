@@ -1,0 +1,50 @@
+eeschema (2013-04-19 BZR 4011)-stable  >> Creation date: 2013-05-14 12:48:26
+#Cmp ( sort. wg = Oznaczenie )
+| C1         100n        
+| C2         22u         
+| C3         100n        
+| C4         100n        
+| C5         100n        
+| D1         1N5817      
+| D2         LED         
+| D3         4V7         
+| D4         1N5817      
+| IC1        ATTINY13-P  
+| K1         HFD27/005   
+| P1         CONN_2      
+| Q1         2N7002      
+| R1         330         
+| R2         4k7         
+| R3         330         
+| R4         4k7         
+| R5         330         
+| R6         4k7         
+| SW1        SW_PUSH     
+| U1         L4941B      
+#End Cmp
+
+#Cmp ( sort. wg = Wartość )
+| 100n         C1        
+| 100n         C3        
+| 100n         C4        
+| 100n         C5        
+| 22u          C2        
+| 1N5817       D1        
+| LED          D2        
+| 4V7          D3        
+| 1N5817       D4        
+| ATTINY13-P   IC1       
+| HFD27/005    K1        
+| CONN_2       P1        
+| 2N7002       Q1        
+| 330          R1        
+| 330          R3        
+| 330          R5        
+| 4k7          R2        
+| 4k7          R4        
+| 4k7          R6        
+| SW_PUSH      SW1       
+| L4941B       U1        
+#Koniec Cmp
+
+#Koniec listy
